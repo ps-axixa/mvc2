@@ -6,5 +6,5 @@ spl_autoload_register(function($classname){
    require_once $path;
     
 });
-$obj=new Autoload();
+$obj=new Autoload(); some changes
 ?>
